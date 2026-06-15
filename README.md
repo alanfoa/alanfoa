@@ -33,7 +33,7 @@ Catálogo comercial premium con estética cinematográfica "Modo Oscuro" orienta
 
 ### 🎓 Formación & Certificaciones
 - **Tecnicatura Universitaria en Programación** (Cursando última materia) — *Universidad Nacional de Hurlingham (UNAHUR)*
-- **Beca de Estímulo Universitario Manuel Belgrano** otorgada por rendimiento académico en disciplinas científicas y tecnológicas.
+
 
 ---
 
